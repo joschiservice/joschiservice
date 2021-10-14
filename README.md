@@ -1,11 +1,11 @@
 # Hi, I'm Joschua! :wave:
 
 ## About Me
-- :books: I am a 17 years old high school student
+- :books: I am a 17 years old software developer
 - 🇩🇪 Based near Hamburg, Germany
 - :bulb: Interests: Drones, space rocket technology, cars, trucks, games and photography
-- :computer: Main programming languages: C#, PHP, JavaScript, Java and Python
-- :hammer: Frameworks I use: Laravel, Bootstrap, jQuery, .NET Core/Framework, React, ReactNative, Tailwind CSS
+- :computer: Programming languages: C#, C++, PHP, JavaScript/TypeScript, Java and Python
+- :hammer: Frameworks I use: Laravel, Bootstrap, jQuery, .NET Core/Framework, React, ReactNative, Tailwind CSS, Next.js
 
 ## Get in touch with me
 - Discord: DeveloperJoschi#3193
