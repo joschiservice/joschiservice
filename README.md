@@ -1,7 +1,7 @@
 # Hi, I'm Joschua! :wave:
 
 ## About Me
-- :books: I am a 18 years old software developer
+- :books: I am a 19 years old software developer
 - 🇩🇪 Based near Hamburg, Germany
 - :bulb: Interests: Drones, cars, trucks, games and photography
 - :computer: Programming languages: C#, C++, PHP, JavaScript/TypeScript, Java and Python
