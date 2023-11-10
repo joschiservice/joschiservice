@@ -1,14 +1,14 @@
 # Hi, I'm Joschua! :wave:
 
 ## About Me
-- :books: I am a 19 years old software developer
+- :books: I am a 20 years old software developer
 - 🇩🇪 Based near Hamburg, Germany
-- :bulb: Interests: Drones, cars, trucks, games and photography
+- :bulb: Interests: Drones, electric vehicles, games
 - :computer: Programming languages: C#, C++, PHP, JavaScript/TypeScript, Java and Python
-- :hammer: Frameworks I use: Laravel, Bootstrap, jQuery, .NET Core/Framework, React, ReactNative, Tailwind CSS, Next.js
+- :hammer: Frameworks I use: Laravel, .NET Core/Framework, React, ReactNative, Tailwind CSS, Next.js, SwiftUI
 
 ## Get in touch with me
-- Discord: DeveloperJoschi#3193
+- Discord: developerjoschi
 - E-Mail: joschua.hass.sh@gmail.com
 
 ## GitHub Statistics
